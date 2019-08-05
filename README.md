@@ -1,8 +1,6 @@
 # exemplofork
-guilherme
-=======
 Gilson
-=======
-Gilson
+
 Emilia Nunes
 
+guilherme

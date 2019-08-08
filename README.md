@@ -8,6 +8,6 @@ Carlos
 
 Bruno e Douglas
 
-André / Carlos
-
 Gabrielen / Jean
+
+André / Carlos
